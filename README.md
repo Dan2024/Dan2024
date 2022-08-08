@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dan2024&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/xUOwGcu6wd0cXBj5n2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kawaii-vaporwave-seapunk-xUOwGcu6wd0cXBj5n2">via GIPHY</a></p>
 
 <!--
 
