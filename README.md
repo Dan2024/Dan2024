@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="20">
+### Hi there <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="25">
 
 ![](https://media.giphy.com/media/xUOwGcu6wd0cXBj5n2/giphy.gif)
 
