@@ -1,7 +1,8 @@
-<img src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" width="100%" style="object-fit: cover">
+### Hi there I'm Dan. Welcome to my GitHub! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="25">
 
-### Hi there <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="25">
-
+- 👨‍💻 Junior Software Developer with a background in science.
+- 🎓 Recent graduate from a full stack developer bootcamp with <a href="https://boolean.co.uk/" target="__blank">Boolean UK</a>
+- 🔍 Currently looking for roles as a Junior Developer
 - 🔭 I’m currently working on my portfolio website!
 - 🌱 I’m currently learning Next.js and Typescript
 - 💬 Ask me about Knees Over Toes
@@ -11,8 +12,3 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height=50 
 src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height=50 
 src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<!--
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
