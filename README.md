@@ -20,7 +20,6 @@ src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentCol
 - 🔭 I’m currently working on my portfolio website!
 - 🌱 I’m currently learning Next.js and Typescript
 - 💬 Ask me about Knees Over Toes
-- <hr>
 
 ### Reach Me
 
