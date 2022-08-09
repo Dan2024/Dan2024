@@ -24,12 +24,6 @@ src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentCol
 
 ### Reach Me
 
-<a href="">
+<a href="https://uk.linkedin.com/in/duncanmagill">
      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></img>
 <a/>
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/daniel-northcott-750107204)
-
-
-
-
