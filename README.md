@@ -2,7 +2,7 @@
 ### Hi there I'm Dan. Welcome to my GitHub! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="25">
 <hr>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Dan2024&theme=prussian&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Dan2024&theme=swift&show_icons=true&count_private=true)
 <hr>
 
 ### My Technologies
