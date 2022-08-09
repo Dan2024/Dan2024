@@ -24,6 +24,6 @@ src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentCol
 
 ### Reach Me
 
-<a href="www.linkedin.com/in/daniel-northcott-750107204">
+<a href="https://www.linkedin.com/in/daniel-northcott-750107204">
      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></img>
 <a/>
