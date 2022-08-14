@@ -7,7 +7,7 @@
 
 ### My Technologies
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,react,postgres,prisma,nodejs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,react,postgres,prisma,nodejs,tailwindcss)](https://skills.thijs.gg)
 <hr>
 
 ### About Me
