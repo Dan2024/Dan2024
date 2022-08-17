@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning Next.js and Typescript
 <hr>
 
-### Connect With Me
+### Let's Connect
 
 <a href="https://www.linkedin.com/in/daniel-northcott-750107204">
      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></img>
