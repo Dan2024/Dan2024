@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
  </div>
  
-<-- [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,react,postgres,prisma,nodejs,tailwindcss)](https://skills.thijs.gg) -->
+<!-- [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,react,postgres,prisma,nodejs,tailwindcss)](https://skills.thijs.gg) -->
 <hr>
 
 ### About Me
