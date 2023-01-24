@@ -30,10 +30,6 @@
 ### About Me
 
 - 👨‍💻 Junior Software Developer with a background in science.
-- 🎓 Recent graduate from a full stack developer bootcamp with <a href="https://boolean.co.uk/" target="__blank">Boolean UK</a>
-- 🔍 Currently looking for roles as a Junior Developer
-- 🔭 I’m currently working on a web developer quiz website!
-- 🌱 I’m currently learning Next.js and Typescript
 <hr>
 
 ### Let's Connect
